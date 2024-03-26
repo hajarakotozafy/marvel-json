@@ -1,0 +1,166 @@
+{
+    "films": [
+      {
+        "title": "Iron Man",
+        "release_date": "2008",
+        "description": "Tony Stark, an industrialist and master engineer, builds a powered exoskeleton and becomes the technologically advanced superhero Iron Man.",
+        "heroes": [1]
+      },
+      {
+        "title": "The Incredible Hulk",
+        "release_date": "2008",
+        "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.",
+        "heroes": [4]
+      },
+      {
+        "title": "Iron Man 2",
+        "release_date": "2010",
+        "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+        "heroes": [1, 5]
+      },
+      {
+        "title": "Thor",
+        "release_date": "2011",
+        "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+        "heroes": [2, 19]
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "release_date": "2011",
+        "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+      "heroes": [3]
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "heroes": [1, 2, 3, 4, 5, 6, 19]
+    },
+    {
+      "title": "Iron Man 3",
+      "release_date": "2013",
+      "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "heroes": [1]
+    },
+    {
+      "title": "Thor: The Dark World",
+      "release_date": "2013",
+      "description": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+      "heroes": [2, 19]
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "release_date": "2014",
+      "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+      "heroes": [3, 5, 16, 17]
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "release_date": "2014",
+      "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+      "heroes": []
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015",
+      "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+      "heroes": [1, 2, 3, 4, 5, 16, 17, 18]
+    },
+    {
+      "title": "Ant-Man",
+      "release_date": "2015",
+      "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+      "heroes": [10]
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016",
+      "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+      "heroes": [1, 2, 5, 11, 16, 17, 14, 15, 6, 12, 13, 20]
+    },
+    {
+      "title": "Doctor Strange",
+      "release_date": "2016",
+      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "heroes": [7]
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "release_date": "2017",
+      "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+      "heroes": []
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "release_date": "2017",
+      "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+      "heroes": [11, 1]
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "release_date": "2017",
+      "description": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "heroes": [2, 19]
+    },
+    {
+      "title": "Black Panther",
+      "release_date": "2018",
+      "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+      "heroes": [8, 21]
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "heroes": [1, 2, 3, 4, 5, 16, 17, 7, 11, 8, 21, 14, 15, 19]
+    },
+    {
+      "title": "Ant-Man and The Wasp",
+      "release_date": "2018",
+      "description": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+      "heroes": [10, 22]
+    },
+    {
+      "title": "Captain Marvel",
+      "release_date": "2019",
+      "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+      "heroes": [9]
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019",
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "heroes": [1, 2, 3, 4, 5, 6, 23, 10, 22, 9, 24, 25, 11, 8, 21, 14, 15, 7, 20, 19, 26, 27]
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "release_date": "2019",
+      "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+      "heroes": [11, 28, 29]
+    },
+    {
+      "title": "Black Widow",
+      "release_date": "2021",
+      "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "heroes": [5]
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "release_date": "2021",
+      "description": "Shang-Chi, the master of unarmed weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+      "heroes": [30]
+    },
+    {
+      "title": "Eternals",
+      "release_date": "2021",
+      "description": "The Eternals, a race of immortal beings with superhuman powers who have secretly lived on Earth for thousands of years, reunite to battle the Deviants, their evil counterparts.",
+      "heroes": [31]
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "release_date": "2021",
+      "description": "With Spider-Man's identity now revealed, Peter Parker asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+      "heroes": [11, 7]
+    }
+  ]
+}

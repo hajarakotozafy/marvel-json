@@ -1,0 +1,191 @@
+{
+    "heroes": [
+      {
+        "id": 1,
+        "name": "Iron Man",
+        "real_name": "Tony Stark",
+        "actor": "Robert Downey Jr."
+      },
+      {
+        "id": 2,
+        "name": "Captain America",
+        "real_name": "Steve Rogers",
+        "actor": "Chris Evans"
+      },
+      {
+        "id": 3,
+        "name": "Thor",
+        "real_name": "Thor Odinson",
+        "actor": "Chris Hemsworth"
+      },
+      {
+        "id": 4,
+        "name": "Hulk",
+        "real_name": "Bruce Banner",
+        "actor": "Mark Ruffalo"
+      },
+      {
+        "id": 5,
+        "name": "Black Widow",
+        "real_name": "Natasha Romanoff",
+        "actor": "Scarlett Johansson"
+      },
+      {
+        "id": 6,
+        "name": "Hawkeye",
+        "real_name": "Clint Barton",
+        "actor": "Jeremy Renner"
+      },
+      {
+        "id": 7,
+        "name": "Doctor Strange",
+        "real_name": "Stephen Strange",
+        "actor": "Benedict Cumberbatch"
+      },
+      {
+        "id": 8,
+        "name": "Black Panther",
+        "real_name": "T'Challa",
+        "actor": "Chadwick Boseman"
+      },
+      {
+        "id": 9,
+        "name": "Captain Marvel",
+        "real_name": "Carol Danvers",
+        "actor": "Brie Larson"
+      },
+      {
+        "id": 10,
+        "name": "Ant-Man",
+        "real_name": "Scott Lang",
+        "actor": "Paul Rudd"
+      },
+      {
+        "id": 11,
+        "name": "Spider-Man",
+        "real_name": "Peter Parker",
+        "actor": "Tom Holland"
+      },
+      {
+        "id": 12,
+        "name": "Wasp",
+        "real_name": "Hope van Dyne",
+        "actor": "Evangeline Lilly"
+      },
+      {
+        "id": 13,
+        "name": "Sharon Carter",
+        "real_name": "Sharon Carter",
+        "actor": "Emily VanCamp"
+      },
+      {
+        "id": 14,
+        "name": "Scarlet Witch",
+        "real_name": "Wanda Maximoff",
+        "actor": "Elizabeth Olsen"
+      },
+      {
+        "id": 15,
+        "name": "Vision",
+        "real_name": "Vision",
+        "actor": "Paul Bettany"
+      },
+      {
+        "id": 16,
+        "name": "Falcon",
+        "real_name": "Sam Wilson",
+        "actor": "Anthony Mackie"
+      },
+      {
+        "id": 17,
+        "name": "Winter Soldier",
+        "real_name": "Bucky Barnes",
+        "actor": "Sebastian Stan"
+      },
+      {
+        "id": 18,
+        "name": "War Machine",
+        "real_name": "James Rhodes",
+        "actor": "Don Cheadle"
+      },
+      {
+        "id": 19,
+        "name": "Loki",
+        "real_name": "Loki",
+        "actor": "Tom Hiddleston"
+      },
+      {
+        "id": 20,
+        "name": "Rocket",
+        "real_name": "Rocket",
+        "actor": "Bradley Cooper"
+      },
+      {
+        "id": 21,
+        "name": "Shuri",
+        "real_name": "Shuri",
+        "actor": "Letitia Wright"
+      },
+      {
+        "id": 22,
+        "name": "Hope van Dyne",
+        "real_name": "Hope van Dyne",
+        "actor": "Evangeline Lilly"
+      },
+      {
+        "id": 23,
+        "name": "Nebula",
+        "real_name": "Nebula",
+        "actor": "Karen Gillan"
+      },
+      {
+        "id": 24,
+        "name": "Captain America (Old)",
+        "real_name": "Steve Rogers",
+        "actor": "Chris Evans"
+      },
+      {
+        "id": 25,
+        "name": "Hulk (Old)",
+        "real_name": "Bruce Banner",
+        "actor": "Mark Ruffalo"
+      },
+      {
+        "id": 26,
+        "name": "Gamora",
+        "real_name": "Gamora",
+        "actor": "Zoe Saldana"
+      },
+      {
+        "id": 27,
+        "name": "Star-Lord",
+        "real_name": "Peter Quill",
+        "actor": "Chris Pratt"
+      },
+      {
+        "id": 28,
+        "name": "Nick Fury",
+        "real_name": "Nick Fury",
+        "actor": "Samuel L. Jackson"
+      },
+      {
+        "id": 29,
+        "name": "Mysterio",
+        "real_name": "Quentin Beck",
+        "actor": "Jake Gyllenhaal"
+      },
+      {
+        "id": 30,
+        "name": "Shang-Chi",
+        "real_name": "Shang-Chi",
+        "actor": "Simu Liu"
+      },
+      {
+        "id": 31,
+        "name": "Eternals",
+        "real_name": "Eternals",
+        "actor": "Various actors"
+      }
+    ]
+  }
+  
